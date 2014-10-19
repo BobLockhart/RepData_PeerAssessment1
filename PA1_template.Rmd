@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Activity Analysis - RR Course Project 1"
 author: "B Lockhart"
 date: "Sunday, October 19, 2014"
@@ -94,3 +95,29 @@ Next the data frame is aggregated by time interval and Weekend/Weekday, which is
 ```
 
 As this plot shows, activity patterns do change between weekdays and weekends, with less activity on weekends during the morning "rush hours" but greater activity at several times during a weekend day.  This includes noticeably more activity during the evening on weekends.
+=======
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
